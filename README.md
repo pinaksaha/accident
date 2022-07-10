@@ -1,1 +1,1 @@
-# Pinak Saha ( Accident.com )
+# Pinak Saha ( Tool to visualise covid data )
